@@ -11,5 +11,5 @@
 
 ## 🌍 Work with me
 
-* ✉️ You can reach me directly: [konrad@8lines.io](mailto:konrad@8lines.io)
-* 💪 Hire me and my talented friends at [8lines](https://8lines/)
+* ✉️ You can reach me directly by email: [konrad@8lines.io](mailto:konrad@8lines.io)
+* 💪 Hire me and my talented friends from [8lines](https://8lines/)
