@@ -18,9 +18,11 @@
 
 ## 🎤 Public activity
 
-* 👷‍♂️ Organizer of local **PHPers Łódź** Meetups
+* 👷‍♂️ Co-organizer of local **PHPers Łódź** Meetups
 * 🦢 Presented "Sylius as an Infrastructure" at SyliusCon 2022 - [Slides](https://speakerdeck.com/radnok/sylius-as-an-infrastructure), [Recording](https://youtu.be/xlZ3Q_S1cfk)
 * 🐘 Presented "Tablice zostawmy Mojżeszowi" at PHPers Summit 2022 - [Slides](https://speakerdeck.com/radnok/tablice-zostawmy-mojzeszowi)
+
+[Find out more on my website!](https://konradalfaro.com/tag/presentation/)
 
 ## 🌍 Work with me
 
