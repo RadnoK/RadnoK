@@ -1,6 +1,11 @@
-# Hi! I'm Konrad
+<h1 align="center">Hi! I'm Konrad 👋</h1>
 
-Technical Consultant, Solutions Architect, Passionate Engineer
+<p align="center">
+  Technical Consultant, Solutions Architect, Passionate Engineer
+</p>
+<p align="center">
+  <a href="https://konradalfaro.com">Blog</a> • <a href="https://twitter.com/alfaro_konrad">Twitter</a> • <a href="https://www.linkedin.com/in/konrad-alfaro/">LinkedIn</a>
+</p>
 
 ## 🤝 I can help you with
 
